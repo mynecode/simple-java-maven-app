@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello Batch 69!
+ * Hello Batch 69...!
  */
 public class App {
 
